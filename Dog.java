@@ -3,7 +3,9 @@ public class Dog
 private String breed;
 private String color;
 private double size;
+}
 
+{
 public String getBreed()
 {
     return breed;
